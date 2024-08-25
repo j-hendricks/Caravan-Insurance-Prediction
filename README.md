@@ -23,6 +23,6 @@ Achieved F1-Score of 0.19 on test data, with a modest recall at 0.54 but a low p
 This model is not yet ready for real-world application, but taught us how to optimally transform data 
 as well as train and compare machine learning models. 
 
-![Classification Report]](images/results.png)
+![Classification Report](images/results.png)
 
-![Confusion Matrix]](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
